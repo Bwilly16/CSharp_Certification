@@ -1,0 +1,14 @@
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.exe
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.deps.json
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.runtimeconfig.json
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.runtimeconfig.dev.json
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.dll
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\bin\Debug\netcoreapp3.1\C# Certification.pdb
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.csproj.AssemblyReference.cache
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.AssemblyInfoInputs.cache
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.AssemblyInfo.cs
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.csproj.CoreCompileInputs.cache
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.dll
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.pdb
+C:\Users\b4wil\OneDrive\Desktop\C# Certification\obj\Debug\netcoreapp3.1\C# Certification.genruntimeconfig.cache
